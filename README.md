@@ -1,1 +1,1 @@
-# SQLPythonStudentExercises
+# SQL + Python StudentExercises
